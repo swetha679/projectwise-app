@@ -1,0 +1,240 @@
+{
+  "placeholderImages": [
+    {
+      "id": "project-1",
+      "description": "A person coding on a laptop in a modern office.",
+      "imageUrl": "https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29kaW5nJTIwbGFwdG9wfGVufDB8fHx8MTc2NjMzMTExN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coding laptop"
+    },
+    {
+      "id": "project-2",
+      "description": "A mobile phone displaying a new application.",
+      "imageUrl": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtb2JpbGUlMjBhcHB8ZW58MHx8fHwxNzY2MzMwNTMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mobile app"
+    },
+    {
+      "id": "project-3",
+      "description": "Data visualization charts on a computer screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1488229297570-58520851e868?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGF0YSUyMHZpc3VhbGl6YXRpb258ZW58MHx8fHwxNzY2MzQ2Nzk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data visualization"
+    },
+    {
+      "id": "project-4",
+      "description": "A person working on a creative project with sticky notes on a board.",
+      "imageUrl": "https://images.unsplash.com/photo-1766320635499-16936f4a527a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y3JlYXRpdmUlMjBwcm9qZWN0fGVufDB8fHx8MTc2NjQxMDEwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "creative project"
+    },
+    {
+      "id": "project-5",
+      "description": "A server room with glowing lights.",
+      "imageUrl": "https://images.unsplash.com/photo-1698668975271-2ba9a323be6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzZXJ2ZXIlMjBpbmZyYXN0cnVjdHVyZXxlbnwwfHx8fDE3NjYzOTY3NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "server infrastructure"
+    },
+    {
+      "id": "project-6",
+      "description": "A team collaborating around a table.",
+      "imageUrl": "https://images.unsplash.com/photo-1622675363311-3e1904dc1885?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0ZWFtJTIwY29sbGFib3JhdGlvbnxlbnwwfHx8fDE3NjYzNDczNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "team collaboration"
+    },
+    {
+      "id": "project-7",
+      "imageUrl": "https://images.unsplash.com/photo-1678491449021-762a7b999862?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxBSSUyMGNoYXR8ZW58MHx8fHwxNzY2NDYyNDI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "AI chat"
+    },
+    {
+      "id": "project-8",
+      "imageUrl": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmb29kJTIwaW5ncmVkaWVudHN8ZW58MHx8fHwxNzY2MzYzNzU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food ingredients"
+    },
+    {
+      "id": "project-9",
+      "imageUrl": "https://images.unsplash.com/photo-1590055531615-f16d36ffe8ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3ZWF0aGVyJTIwZm9yZWNhc3R8ZW58MHx8fHwxNzY2NDYyNDI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "weather forecast"
+    },
+    {
+      "id": "project-10",
+      "imageUrl": "https://images.unsplash.com/photo-1645226880663-81561dcab0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzdG9jayUyMG1hcmtldHxlbnwwfHx8fDE3NjY0MzYzNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stock market"
+    },
+    {
+      "id": "project-11",
+      "imageUrl": "https://images.unsplash.com/photo-1568495341369-1066472c7a27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxvYmplY3QlMjBkZXRlY3Rpb258ZW58MHx8fHwxNzY2NDYyNDI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "object detection"
+    },
+    {
+      "id": "project-12",
+      "imageUrl": "https://images.unsplash.com/photo-1572089479354-d280e47c12cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkZXZvcHMlMjBwaXBlbGluZXxlbnwwfHx8fDE3NjYzODExMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "devops pipeline"
+    },
+    {
+      "id": "project-13",
+      "imageUrl": "https://images.unsplash.com/photo-1668874625692-87c412948045?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtdXNpYyUyMHBsYXllcnxlbnwwfHx8fDE3NjY0MzMyOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "music player"
+    },
+    {
+      "id": "project-14",
+      "imageUrl": "https://images.unsplash.com/photo-1736953072477-bd26e3073d02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmaWxlJTIwc2hhcmluZ3xlbnwwfHx8fDE3NjY0NjI0MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "file sharing"
+    },
+    {
+      "id": "project-15",
+      "imageUrl": "https://images.unsplash.com/photo-1534423861386-85a16f5d13fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxnYW1lJTIwZGV2ZWxvcG1lbnR8ZW58MHx8fHwxNzY2MzM2NzQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "game development"
+    },
+    {
+      "id": "project-16",
+      "imageUrl": "https://images.unsplash.com/photo-1603899122406-e7eb957f9fd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx1cmwlMjBsaW5rfGVufDB8fHx8MTc2NjQ2MjQyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "url link"
+    },
+    {
+      "id": "project-17",
+      "imageUrl": "https://images.unsplash.com/photo-1661343586831-d7fd573de66c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtb3ZpZSUyMHJlZWx8ZW58MHx8fHwxNzY2Mzc0NzY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "movie reel"
+    },
+    {
+      "id": "project-18",
+      "imageUrl": "https://images.unsplash.com/photo-1660144379959-65e236db6cb8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2xvdWQlMjBjb2RlfGVufDB8fHx8MTc2NjQ2MjQyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cloud code"
+    },
+    {
+      "id": "project-19",
+      "imageUrl": "https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxqb2IlMjBzZWFyY2h8ZW58MHx8fHwxNzY2Mzc0NTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "job search"
+    },
+    {
+      "id": "project-20",
+      "imageUrl": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmaXRuZXNzJTIwZ3ltfGVufDB8fHx8MTc2NjQ2MjQyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fitness gym"
+    },
+    {
+      "id": "project-21",
+      "imageUrl": "https://images.unsplash.com/photo-1555001196-9b3d5c9ae0c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb2RlJTIwc25pcHBldHN8ZW58MHx8fHwxNzY2NDYyNDI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "code snippets"
+    },
+    {
+      "id": "project-22",
+      "imageUrl": "https://images.unsplash.com/photo-1620778187368-30aa2f6e7755?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxibG9ja2NoYWluJTIwY3J5cHRvfGVufDB8fHx8MTc2NjQ2MjQyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blockchain crypto"
+    },
+    {
+      "id": "project-23",
+      "imageUrl": "https://images.unsplash.com/photo-1535303311164-664fc9ec6532?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzb2NpYWwlMjBtZWRpYXxlbnwwfHx8fDE3NjY0NDcwMzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "social media"
+    },
+    {
+      "id": "project-24",
+      "imageUrl": "https://images.unsplash.com/photo-1625535069654-cfeb8f829088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb2RlJTIwZWRpdG9yfGVufDB8fHx8MTc2NjM3NTUwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "code editor"
+    },
+    {
+      "id": "project-25",
+      "imageUrl": "https://images.unsplash.com/photo-1564585447193-cd9a0cf42a36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwaXhlbCUyMGFydHxlbnwwfHx8fDE3NjY0NjI0MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pixel art"
+    },
+    {
+      "id": "project-26",
+      "imageUrl": "https://images.unsplash.com/photo-1504607798333-52a30db54a5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZmluYW5jZSUyMGNoYXJ0fGVufDB8fHx8MTc2NjM5MTIwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "finance chart"
+    },
+    {
+      "id": "project-27",
+      "imageUrl": "https://images.unsplash.com/photo-1714846201700-35b42d937158?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsaW51eCUyMHRlcm1pbmFsfGVufDB8fHx8MTc2NjQ2MjQyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "linux terminal"
+    },
+    {
+      "id": "project-28",
+      "imageUrl": "https://images.unsplash.com/photo-1471014706828-7f1b12e6d88b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YXVnbWVudGVkJTIwcmVhbGl0eXxlbnwwfHx8fDE3NjY0NTAyNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "augmented reality"
+    },
+    {
+      "id": "project-29",
+      "imageUrl": "https://images.unsplash.com/photo-1629058546230-b82b8ebc2fc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjbG91ZCUyMGluZnJhc3RydWN0dXJlfGVufDB8fHx8MTc2NjM5OTk5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cloud infrastructure"
+    },
+    {
+      "id": "project-30",
+      "imageUrl": "https://images.unsplash.com/photo-1599009432031-ba5d3a794aec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkaWdpdGFsJTIwd2hpdGVib2FyZHxlbnwwfHx8fDE3NjY0NjI0MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "digital whiteboard"
+    },
+    {
+      "id": "project-31",
+      "imageUrl": "https://images.unsplash.com/photo-1656326793161-c3a84c26c76d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncmFwaHFsJTIwYXBpfGVufDB8fHx8MTc2NjQ2MjQyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "graphql api"
+    },
+    {
+      "id": "project-32",
+      "imageUrl": "https://images.unsplash.com/photo-1630710577150-fb1a6fa9ca2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx2aXJ0dWFsJTIwZ2FsbGVyeXxlbnwwfHx8fDE3NjY0NjI0MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "virtual gallery"
+    },
+    {
+      "id": "project-33",
+      "imageUrl": "https://images.unsplash.com/photo-1618453213426-fb60f6c4fc56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzdWRva3UlMjBwdXp6bGV8ZW58MHx8fHwxNzY2NDExNDQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sudoku puzzle"
+    },
+    {
+      "id": "project-34",
+      "imageUrl": "https://images.unsplash.com/photo-1642132652806-8aa09801c2ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmaWdtYSUyMGRlc2lnbnxlbnwwfHx8fDE3NjY0NjI0MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "figma design"
+    },
+    {
+      "id": "project-35",
+      "imageUrl": "https://images.unsplash.com/photo-1661717285222-ffd086928a07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhaXJwbGFuZSUyMGZsaWdodHxlbnwwfHx8fDE3NjY0NjI0MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "airplane flight"
+    },
+    {
+      "id": "project-36",
+      "imageUrl": "https://images.unsplash.com/photo-1568667256549-094345857637?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxib29rJTIwbGlicmFyeXxlbnwwfHx8fDE3NjY0NjI0MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "book library"
+    },
+    {
+      "id": "project-37",
+      "imageUrl": "https://images.unsplash.com/photo-1653289755854-a41949e96282?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb250YWN0JTIwbGlzdHxlbnwwfHx8fDE3NjY0MzAxODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "contact list"
+    },
+    {
+      "id": "project-38",
+      "imageUrl": "https://images.unsplash.com/photo-1713857297379-6fc26e70f581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzeXN0ZW0lMjBtb25pdG9yfGVufDB8fHx8MTc2NjQ2MjQyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "system monitor"
+    },
+    {
+      "id": "project-39",
+      "imageUrl": "https://images.unsplash.com/photo-1544474921-9df05bc76d66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxob3VzZSUyMHBsYW50fGVufDB8fHx8MTc2NjQwODkyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "house plant"
+    },
+    {
+      "id": "project-40",
+      "imageUrl": "https://images.unsplash.com/photo-1715842929134-bc37e4338e35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXJrZG93biUyMHRleHR8ZW58MHx8fHwxNzY2NDYyNDI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "markdown text"
+    },
+    {
+      "id": "project-41",
+      "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsYW5ndWFnZSUyMGxlYXJuaW5nfGVufDB8fHx8MTc2NjQ2MjQyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "language learning"
+    },
+    {
+      "id": "project-42",
+      "imageUrl": "https://images.unsplash.com/photo-1761625424632-c6adc86211d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxrdWJlcm5ldGVzJTIwbG9nb3xlbnwwfHx8fDE3NjY0NjI0MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kubernetes logo"
+    },
+    {
+      "id": "project-43",
+      "imageUrl": "https://images.unsplash.com/photo-1707268912635-bc63498c683d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmYW50YXN5JTIwc3Rvcnl8ZW58MHx8fHwxNzY2NDYyNDI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fantasy story"
+    },
+    {
+      "id": "project-44",
+      "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjcmVkaXQlMjBjYXJkfGVufDB8fHx8MTc2NjQ0NjE5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "credit card"
+    },
+    {
+      "id": "project-45",
+      "imageUrl": "https://images.unsplash.com/photo-1621560471624-224511e9570b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaXR5JTIwYnVzfGVufDB8fHx8MTc2NjQ2MjQyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city bus"
+    },
+    {
+      "id": "project-46",
+      "imageUrl": "https://images.unsplash.com/photo-1644261766628-3af7203be678?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzZXJ2ZXIlMjBhcGl8ZW58MHx8fHwxNzY2NDYyNDI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "server api"
+    }
+  ]
+}
